@@ -1,0 +1,55 @@
+1- "style" tag is used to add design to some text.
+CSS types
+
+i-in-line
+ii-internal
+iii-external
+it
+<link rel="stylesheet" href="./style/style.css">
+is used to link html file with css file on vs code.
+
+1- inline css
+	for 1 component i.e navigation bar
+
+2- internal css
+for website bearing only one page
+
+3- external css
+		it is used for multiple pages web site where multiple properties are required to make in website. 
+we use to run more properties with less code repetition.
+
+--------------------------------------------------------------------------------
+in order to design a specific class use . and  the name of code to style it.
+
+
+"lorem ipsum"  is used to get random text.
+
+padding
+	PADDING IS THE GAP OF TEXT BORDER INSIDE 
+margin
+MARGIN IS THE GAP FROM OUTSIDE THE TEXT BORDER
+	MARGIN CONTAIN PROPERTIES (MARGIN WORKS WITH CLOCK-WISE DIRECTION AS BELOW)
+		MT MARGIN TOP 	
+		MR MARGIN RIGHT
+		MB MARGIN BOTTOM
+		ML MARGIN LEFT
+IN CASE WE WANT MARGIN FOR 4 SIDES WE WILL JUST WRITE MARGIN:10 PX
+
+PADDING PROPERTIES
+		MT PADDING TOP 	
+		MR PADDING RIGHT
+		MB PADDING BOTTOM
+		ML PADDING LEFT
+
+--------------------------------------------------------------------------
+in order to update the code on GitHub
+
+go to terminal
+
+git add .
+git commit -"update css 01"
+
+git push -original main
+
+
+	     
